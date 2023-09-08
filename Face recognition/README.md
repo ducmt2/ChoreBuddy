@@ -1,10 +1,7 @@
 Full tutorial is [here](https://www.tomshardware.com/how-to/raspberry-pi-facial-recognition)
 
-Below, I listed steps for a quick guide compiled form the source website. I also configured the code to work with picamera, not the USB camera per instructions in the tutorial.
 
 Prerequisites:
-
-1. **Must have OpenCV installed** and the packages we needed in Lab 1 plus a few more.
 
 Below are all packages that will be needed and instructions on how to install on Raspberry Pi.
 

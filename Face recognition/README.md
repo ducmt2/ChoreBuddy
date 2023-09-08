@@ -1,6 +1,3 @@
-Full tutorial is [here](https://www.tomshardware.com/how-to/raspberry-pi-facial-recognition)
-
-
 Prerequisites:
 
 Below are all packages that will be needed and instructions on how to install on Raspberry Pi.

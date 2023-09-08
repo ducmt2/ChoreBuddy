@@ -1,5 +1,4 @@
-# Final Project
-
+# ChoreBuddy
 ## Statemachine
 
 ![statemachine](./doc/statemachine.png)

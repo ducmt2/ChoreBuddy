@@ -1,0 +1,15 @@
+user:
+  child:
+    - John
+    - Hayun
+  parent:
+    - Sung
+    - Lim
+chore:
+  - name: John
+    task:
+      - Clean your desk.
+      - Empty your trash bin.
+  - name: Hayun
+    task:
+      - Water flowers.
